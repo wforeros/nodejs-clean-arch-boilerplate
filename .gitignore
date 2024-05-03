@@ -3,5 +3,7 @@ dist/
 build/
 output.txt
 .esbuild/
-.env*
+.env.dev
+.env.test
+.env
 db
